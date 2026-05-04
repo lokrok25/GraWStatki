@@ -3,60 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\wikto\\Desktop\\GraWStatki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\statki_OwczukWiktorV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:statki_OwczukWiktorV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\statki_OwczukWiktorV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\statki_OwczukWiktorV2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\GameTXT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\GameTXT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:src\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:include\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\GameTXT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:GameTXT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:include\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\GameTXT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:GameTXT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:include\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:include\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:include\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:include\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|C:\\Users\\wikto\\Desktop\\GraWStatki\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71E0BD55-68C2-5635-0439-A28ED09B395D}|GraWStatki.vcxproj|solutionrelative:Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wikto\\Desktop\\GraWStatki\\cpp files\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp files\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,189 +66,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "statki_OwczukWiktorV2.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\statki_OwczukWiktorV2.cpp",
-              "RelativeDocumentMoniker": "statki_OwczukWiktorV2.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\statki_OwczukWiktorV2.cpp",
-              "RelativeToolTip": "statki_OwczukWiktorV2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:30.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Position.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Position.h",
-              "RelativeDocumentMoniker": "Position.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Position.h",
-              "RelativeToolTip": "Position.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:29.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ship.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Ship.h",
-              "RelativeDocumentMoniker": "Ship.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Ship.h",
-              "RelativeToolTip": "Ship.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:27.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Ship.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Ship.cpp",
-              "RelativeDocumentMoniker": "Ship.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Ship.cpp",
-              "RelativeToolTip": "Ship.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Human.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Human.cpp",
+              "RelativeDocumentMoniker": "src\\Human.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Human.cpp",
+              "RelativeToolTip": "src\\Human.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:26.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Player.h",
-              "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Player.h",
-              "RelativeToolTip": "Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:25.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T17:33:34.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Player.cpp",
-              "RelativeDocumentMoniker": "Player.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Player.cpp",
-              "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Engine.cpp",
+              "RelativeDocumentMoniker": "src\\Engine.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Engine.cpp",
+              "RelativeToolTip": "src\\Engine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:25.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T17:33:18.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Human.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Human.h",
-              "RelativeDocumentMoniker": "Human.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Human.h",
-              "RelativeToolTip": "Human.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:24.094Z",
-              "EditorCaption": ""
+              "Title": "Computer.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Computer.cpp",
+              "RelativeDocumentMoniker": "src\\Computer.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Computer.cpp",
+              "RelativeToolTip": "src\\Computer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T17:32:00.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Human.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Human.cpp",
-              "RelativeDocumentMoniker": "Human.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Human.cpp",
-              "RelativeToolTip": "Human.cpp",
+              "Title": "Ship.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Ship.h",
+              "RelativeDocumentMoniker": "include\\Ship.h",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Ship.h",
+              "RelativeToolTip": "include\\Ship.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:23Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T17:32:00.202Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GameTXT.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\GameTXT.h",
-              "RelativeDocumentMoniker": "GameTXT.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\GameTXT.h",
-              "RelativeToolTip": "GameTXT.h",
+              "Title": "Position.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Position.h",
+              "RelativeDocumentMoniker": "include\\Position.h",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Position.h",
+              "RelativeToolTip": "include\\Position.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:22.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T17:31:59.696Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "GameTXT.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\GameTXT.cpp",
-              "RelativeDocumentMoniker": "GameTXT.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\GameTXT.cpp",
-              "RelativeToolTip": "GameTXT.cpp",
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Player.h",
+              "RelativeDocumentMoniker": "include\\Player.h",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Player.h",
+              "RelativeToolTip": "include\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:21.297Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T17:31:59.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Engine.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Engine.h",
-              "RelativeDocumentMoniker": "Engine.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Engine.h",
-              "RelativeToolTip": "Engine.h",
+              "Title": "Human.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Human.h",
+              "RelativeDocumentMoniker": "include\\Human.h",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Human.h",
+              "RelativeToolTip": "include\\Human.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:19.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T17:31:58.367Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Engine.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Engine.cpp",
-              "RelativeDocumentMoniker": "Engine.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Engine.cpp",
-              "RelativeToolTip": "Engine.cpp",
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Engine.h",
+              "RelativeDocumentMoniker": "include\\Engine.h",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Engine.h",
+              "RelativeToolTip": "include\\Engine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-04T17:31:57.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameTXT.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\GameTXT.cpp",
+              "RelativeDocumentMoniker": "src\\GameTXT.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\GameTXT.cpp",
+              "RelativeToolTip": "src\\GameTXT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:19.008Z",
+              "WhenOpened": "2026-05-04T17:31:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Player.cpp",
+              "RelativeDocumentMoniker": "src\\Player.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Player.cpp",
+              "RelativeToolTip": "src\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T17:31:38.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Ship.cpp",
+              "RelativeDocumentMoniker": "src\\Ship.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\Ship.cpp",
+              "RelativeToolTip": "src\\Ship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T17:31:44.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "statki_OwczukWiktorV2.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\statki_OwczukWiktorV2.cpp",
+              "RelativeDocumentMoniker": "src\\statki_OwczukWiktorV2.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\src\\statki_OwczukWiktorV2.cpp",
+              "RelativeToolTip": "src\\statki_OwczukWiktorV2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T17:31:38.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Computer.h",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Computer.h",
-              "RelativeDocumentMoniker": "Computer.h",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Computer.h",
-              "RelativeToolTip": "Computer.h",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Computer.h",
+              "RelativeDocumentMoniker": "include\\Computer.h",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\include\\Computer.h",
+              "RelativeToolTip": "include\\Computer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T16:39:17.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T17:29:35.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Computer.cpp",
-              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Computer.cpp",
-              "RelativeDocumentMoniker": "Computer.cpp",
-              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\Computer.cpp",
-              "RelativeToolTip": "Computer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Human.cpp",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\GraWStatki\\cpp files\\Human.cpp",
+              "RelativeDocumentMoniker": "cpp files\\Human.cpp",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\GraWStatki\\cpp files\\Human.cpp",
+              "RelativeToolTip": "cpp files\\Human.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T16:39:16.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T17:23:00.754Z"
             }
           ]
         }
