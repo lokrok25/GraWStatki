@@ -1,34 +1,19 @@
 # DOKUMENTACJA – GRA W STATKI
-
-1. Zasady gry: Każdy z graczy posiada po dwie plansze o wielkości, zazwyczaj, 10x10 pól. Pola oznaczone są poprzez współrzędne liczbami od 1 do 10. Na jednym z kwadratów (plansz) gracz zaznacza swoje statki, których położenie będzie odgadywał przeciwnik. Na drugim zaznacza trafione statki przeciwnika i oddane przez siebie strzały. Statki ustawiane są w pionie lub poziomie, w taki sposób, aby nie stykały się one ze sobą ani bokami, ani rogami. Okręty są różnej wielkości i zazwyczaj więcej jest jednostek o mniejszej wielkości, np. gracze mogą posiadać po jednym czteromasztowcu wielkości czterech kratek, dwóch trójmasztowcach wielkości trzech kratek, trzech dwumasztowcach o wielkości dwóch kratek i po czterech jednomasztowcach.
+Zasady gry: Każdy z graczy posiada po dwie plansze o wielkości, zazwyczaj, 10x10 pól. Pola oznaczone są poprzez współrzędne liczbami od 1 do 10. Na jednym z kwadratów (plansz) gracz zaznacza swoje statki, których położenie będzie odgadywał przeciwnik. Na drugim zaznacza trafione statki przeciwnika i oddane przez siebie strzały. Statki ustawiane są w pionie lub poziomie, w taki sposób, aby nie stykały się one ze sobą ani bokami, ani rogami. Okręty są różnej wielkości i zazwyczaj więcej jest jednostek o mniejszej wielkości, np. gracze mogą posiadać po jednym czteromasztowcu wielkości czterech kratek, dwóch trójmasztowcach wielkości trzech kratek, trzech dwumasztowcach o wielkości dwóch kratek i po czterech jednomasztowcach.
 
 Trafienie okrętu przeciwnika polega na strzale, który jest odgadnięciem położenia jakiegoś statku. Strzały oddawane są naprzemiennie, poprzez podanie współrzędnych pola (np. (2,5)). W przypadku strzału trafionego, gracz kontynuuje strzelanie (czyli swój ruch) aż do momentu chybienia. Gdy wszystkie pola zajęte przez dany statek zostaną trafione, statek uznany jest za zatopiony. O chybieniu gracz informuje przeciwnika słowem „pudło”, o trafieniu „trafiony”
 
-2. Schemat klas:
+Schemat klas:
+
+![image alt](https://github.com/wiktorowczuk/GraWStatki/blob/main/schemat_klas.png?raw=true)
  
-3. Instrukcja obsługi gry: Po uruchomieniu (oraz w każdej naszej turze) gry terminal poprosi nas o podanie koordynatów naszego strzału (x y). Wpisujemy dwie liczby – pierwsza reprezentująca koordynat x na planszy oraz druga reprezentująca koordynat y na planszy. Liczby te wpisujemy po sobie w jednej linii, bez przecinków i w odstępie spacji. Następnie klikamy enter.
+Instrukcja obsługi gry: Po uruchomieniu (oraz w każdej naszej turze) gry terminal poprosi nas o podanie koordynatów naszego strzału (x y). Wpisujemy dwie liczby – pierwsza reprezentująca koordynat x na planszy oraz druga reprezentująca koordynat y na planszy. Liczby te wpisujemy po sobie w jednej linii, bez przecinków i w odstępie spacji. Następnie klikamy enter.
 Przykład: 3 3
 
 Cała linijka (razem z poprzedzającym liczby tekstem wyświetlonym przez terminal) przed naciśnięciem enter: 
 Wprowadz koordynaty twojego strzalu (x y): 3 3
 
 Po kliknięciu enter oddany jest nasz strzał we wpisane koordynaty. 
-
-Dla jasności – oto pusta plansza z koordynatami:
-y/x	1	2	3	4	5	6	7	8	9	10
-1	.	.	.	.	.	.	.	.	.	.
-2	.	.	.	.	.	.	.	.	.	.
-3	.	.	.	.	.	.	.	.	.	.
-4	.	.	.	.	.	.	.	.	.	.
-5	.	.	.	.	.	.	.	.	.	.
-6	.	.	.	.	.	.	.	.	.	.
-7	.	.	.	.	.	.	.	.	.	.
-8	.	.	.	.	.	.	.	.	.	.
-9	.	.	.	.	.	.	.	.	.	.
-10	.	.	.	.	.	.	.	.	.	.
-
-
-
 
 4. Sposób rozmieszczenia swoich statków: W repozytorium, w którym znajduje się projekt umieszczamy plik tekstowy o tytule „init.txt”, o następującym formacie: 
 
