@@ -15,7 +15,7 @@ Wprowadz koordynaty twojego strzalu (x y): 3 3
 
 Po kliknięciu enter oddany jest nasz strzał we wpisane koordynaty. 
 
-4. Sposób rozmieszczenia swoich statków: W repozytorium, w którym znajduje się projekt umieszczamy plik tekstowy o tytule „init.txt”, o następującym formacie: 
+Sposób rozmieszczenia swoich statków: W repozytorium, w którym znajduje się projekt umieszczamy plik tekstowy o tytule „init.txt”, o następującym formacie: 
 
 Wpisujemy dokładnie pięć wierszy – każdy z nich reprezentuje jeden statek. Każdy wiersz wygląda w następujący sposób:
 Liczba od 2 do 5(długość statku), 
